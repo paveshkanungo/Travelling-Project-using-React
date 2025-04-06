@@ -45,7 +45,7 @@ npm start
 
 ## 🌟 Screenshots
 
-> [!Image](./assets/Image1.png)
+> ![Image](./assets/Image1.png)
 
 ---
 
